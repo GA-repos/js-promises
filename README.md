@@ -36,11 +36,13 @@ Students Will Be Able To:
 ---
 #### Setup
 
-1. In Terminal, `cd` into your sandbox, or any folder you use to take notes, create a folder called `JS-Promises-Lesson` and cd into it
+1. In your Terminal, `cd` into your sandbox, or any folder you use to take notes, create a folder called `JS-Promises-Lesson`
  
-2. Once in the folder, we want to create a promises.js file to practice our code, `touch promises.js`
+2. `cd` into your JS-Promises-Lesson folder
+   
+3. Once in the folder, we want to create a promises.js file to practice our code, `touch promises.js`
 
-3. You're all set for the lesson!
+4. Open the file to start coding using `code . `. You're all set for the lesson!
 
 ---
 #### The Use Case of Promises
