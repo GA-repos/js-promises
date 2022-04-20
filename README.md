@@ -36,22 +36,11 @@ Students Will Be Able To:
 ---
 #### Setup
 
-1. In Terminal, `cd` to the class repo.
+1. In Terminal, `cd` into your sandbox, or any folder you use to take notes, create a folder called `JS-Promises-Lesson` and cd into it
  
-1. Get the latest updates from the remote class repo:
+2. Once in the folder, we want to create a promises.js file to practice our code, `touch promises.js`
 
-	```sh
-	$ git pull upstream master
-	```
-1. `cd` into the<br>`.../work/w05/d3/01-js-promises/starter-code/mongoose-movies` folder.
-
-1. Open the `mongoose-movies` folder in your code editor.
-
-1. Install the Node modules:
-
-	```sh
-	$ npm install
-	```
+3. You're all set for the lesson!
 
 ---
 #### The Use Case of Promises
